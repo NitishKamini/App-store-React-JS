@@ -1,0 +1,13 @@
+.tab-name {
+  margin-right: 10px;
+  font-family: 'Bree Serif';
+  color: #7b8794;
+  border-style: none;
+  background-color: transparent;
+}
+
+.class {
+  color: #2563eb;
+  border-bottom-color: #2563eb;
+  border-bottom-style: solid;
+}
